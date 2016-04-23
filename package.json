@@ -1,0 +1,19 @@
+{
+  "name": "CustomPeges",
+  "version": "1.0.0",
+  "description": "Custom pages for danger!Awesome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.a2a.co:webinerds/dangerawesome.git"
+  },
+  "author": "Evgeniy Polovniy",
+  "license": "ISC",
+  "devDependencies": {
+    "require-dir": "^0.3.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
